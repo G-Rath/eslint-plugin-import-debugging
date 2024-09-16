@@ -1,0 +1,13 @@
+{
+  "name": "eslint-plugin-import-debugging",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "eslint-plugin-import": "^2.0.0"
+  }
+}
